@@ -1,0 +1,75 @@
+POLÍTICA DE PRIVACIDAD
+
+Esta política de privacidad rige el uso del nombre de Tecno Map para dispositivos móviles que fue creada por LOTUSXD. La aplicación es una herramienta diseñada en base a la geolocalización usada para facilitar la ubicación de determinados edificios dentro de la Facultad de Ciencias y Tecnología de la Universidad Mayor de San Simón.
+
+ 
+
+¿Qué información obtiene la aplicación y cómo se utiliza?
+
+Información proporcionada por el usuario
+
+La Aplicación obtiene la información que usted proporciona cuando descarga y registra la Aplicación. 
+
+Información recopilada automáticamente
+
+Además, la Aplicación puede recopilar cierta información automáticamente, incluyendo, entre otros, el tipo de dispositivo móvil que usa, la identificación exclusiva de su dispositivo móvil, la dirección IP de su dispositivo móvil, su sistema operativo móvil, el tipo de dispositivo móvil. Los navegadores de Internet que usa, y la información sobre la forma en que utiliza la Aplicación.
+
+ 
+
+¿La aplicación recopila información de ubicación precisa en tiempo real del dispositivo?
+
+Cuando visita la aplicación móvil, podemos usar la tecnología GPS (u otra tecnología similar) para determinar su ubicación actual para determinar la ciudad en la que se encuentra y mostrar un mapa de ubicación con anuncios relevantes. No compartiremos su ubicación actual con otros usuarios o socios.
+
+Si no desea que usemos su ubicación para los fines establecidos anteriormente, debe desactivar los servicios de ubicación para la aplicación móvil ubicada en la configuración de su cuenta o en la configuración de su teléfono móvil y / o dentro de la aplicación móvil, sin embargo esto implica no poder usar la aplicación de forma correcta.
+
+ 
+
+¿Los terceros ven y / o tienen acceso a la información obtenida por la Aplicación?
+
+Datos de geolocalización
+
+No. La aplicación recolecta datos de geolocalización en tiempo real para poder brindarle dicha información únicamente al usuario. No compartimos, ni recolectamos la información que se obtenga durante el uso de la misma.
+ 
+Datos analíticos
+
+Si, podemos trabajar con compañias terceras para poder mostrarle al usuario anuncios de acuerdo a sus intereses, además de saber sobre el dispositivo que usa la aplicación y los posibles problemas técnicos durante su uso.
+
+
+¿Cuáles son mis derechos de exclusión?
+
+Puede detener fácilmente toda la recopilación de información de la Aplicación si desinstala la Aplicación. Puede usar los procesos de desinstalación estándar que pueden estar disponibles como parte de su dispositivo móvil o a través del mercado o la red de aplicaciones móviles. 
+
+ 
+
+Política de retención de datos, gestión de su información
+
+Podemos trabajar con compañías analíticas para ayudarnos a comprender cómo se está utilizando la aplicación, como la frecuencia y la duración del uso. Trabajamos con anunciantes y redes publicitarias de terceros, que necesitan saber cómo interactúa con la publicidad proporcionada en la Aplicación, lo que nos ayuda a mantener bajo el costo de la Aplicación. Los anunciantes y las redes de publicidad utilizan parte de la información recopilada por la Aplicación, que incluye, entre otros, el ID de identificación único de su dispositivo móvil y su cuenta de Google. Para proteger el anonimato de esta información, utilizamos una tecnología de cifrado para ayudar a garantizar que estos terceros no puedan identificarlo personalmente. Estos terceros también pueden obtener información anónima sobre otras aplicaciones que ha descargado en su dispositivo móvil, los sitios web móviles que visita, su información de ubicación no precisa (por ejemplo, su ciudad) y otra información de ubicación no precisa en orden. para ayudar a analizar y publicar publicidad dirigida anónima en la Aplicación y en otros lugares. También podemos compartir versiones encriptadas de la información que ha proporcionado para permitir que nuestros socios adjunten otra información disponible sobre usted para su análisis o uso relacionado con la publicidad.
+ 
+
+
+Niños
+
+No utilizamos la Aplicación para solicitar a sabiendas datos o comercializar a niños menores de 13 años.
+
+
+Seguridad
+
+Nos preocupa proteger la confidencialidad de su información. Por lo mismo, ningún usuario puede tener acceso a la información de otro usuario.
+
+ 
+
+Cambios
+
+Esta Política de privacidad puede actualizarse de vez en cuando por cualquier motivo. Le notificaremos de cualquier cambio en nuestra Política de privacidad mediante la publicación de la nueva Política de privacidad aquí. Se recomienda consultar regularmente esta Política de privacidad para cualquier cambio, ya que el uso continuado se considera una aprobación de todos los cambios. Puede consultar el historial de esta política haciendo clic aquí.
+
+ 
+
+Tu consentimiento
+
+Al utilizar la Aplicación, usted acepta que procesemos su información tal como se establece en esta Política de privacidad ahora y según nuestra enmienda. "Procesar" significa usar cookies en una computadora / dispositivo de mano o usar o tocar información de cualquier manera, incluyendo, pero no limitado a, recopilar, almacenar, eliminar, usar, combinar y divulgar información.
+
+ 
+
+Contáctenos
+
+Si tiene alguna pregunta sobre la privacidad mientras utiliza la Aplicación, o si tiene preguntas sobre nuestras prácticas, comuníquese con nosotros por correo electrónico a contacto@lotusxd.com
